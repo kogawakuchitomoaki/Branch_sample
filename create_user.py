@@ -1,2 +1,2 @@
-pprint('Username?')
+print('Username?')
 print('Delete User01')
